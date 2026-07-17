@@ -9,3 +9,9 @@ Hi, I'm Bastian Scharnagl, a researcher dedicated to bridging the gap between AI
 
 Born in Tirschenreuth, my fascination with technology began in childhood and eventually led me to a degree in Mechanical Engineering.
 I would describe myself as curious, disciplined, and persevering, with a fondness for reflecting on various layers of abstraction.
+
+Focus Areas:
+
+- Machine Learning: Neural architectures and pattern representation.
+- System Design: Efficient, robust implementations of hardware and software.
+- Analysis: Exploring limits of logic, optimization, and complex systems.

@@ -4,5 +4,5 @@ title: Collaboration
 permalink: /collaboration/
 ---
 
-Profession: LinkedIn
-Passion: FC Tirschenreuth
+Profession: [LinkedIn](https://linkedin.com/in/bastianscharnagl)
+Passion: [FC Tirschenreuth](http://www.fc-tirschenreuth.de/)

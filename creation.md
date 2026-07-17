@@ -4,4 +4,4 @@ title: Creation
 permalink: /creation/
 ---
 
-Thoughts: Substack
+- Thoughts: [Substack](https://bastianscharnagl.substack.com/)
