@@ -1,3 +1,19 @@
-theme: jekyll-theme-minimal
 title: Bastian Scharnagl's personal Webpage
+email: bastian.scharnagl@gmail.com
+description: >-
+  A minimal space for research, projects, and ideas.
 
+# Build settings
+markdown: kramdown
+theme: minima # Optional, but we are writing a custom layout below to keep it completely independent
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: Exploration
+    url: /exploration/
+  - title: Creation
+    url: /creation/
+  - title: Inspiration
+    url: /inspiration/
