@@ -12,6 +12,8 @@ navigation:
     url: /
   - title: Exploration
     url: /exploration/
+  - title: Collaboration
+    url: /collaboration/
   - title: Creation
     url: /creation/
   - title: Inspiration
