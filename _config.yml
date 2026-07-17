@@ -4,8 +4,7 @@ description: >-
   A minimal space for research, projects, and ideas.
 
 # Build settings
-markdown: kramdown
-theme: minima # Optional, but we are writing a custom layout below to keep it completely independent
+theme: jekyll-theme-minimal # Optional, but we are writing a custom layout below to keep it completely independent
 
 # Navigation
 navigation:
