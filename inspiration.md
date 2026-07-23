@@ -4,9 +4,9 @@ title: Inspiration
 permalink: /inspiration/
 ---
 
-## Morality ([René Girard](https://de.wikipedia.org/wiki/Ren%C3%A9_Girard))
+## Morality ([Rene Girard](https://de.wikipedia.org/wiki/Ren%C3%A9_Girard))
 
-In his seminal work ["Things Hidden Since the Foundation of the World"](https://en.wikipedia.org/wiki/Things_Hidden_Since_the_Foundation_of_the_World) (Des choses cachées depuis la fondation du monde, Das Ende der Gewalt, 1978), the French philosopher and cultural anthropologist René Girard unfolds his central theory of human cultural genesis.
+In his seminal work ["Things Hidden Since the Foundation of the World"](https://en.wikipedia.org/wiki/Things_Hidden_Since_the_Foundation_of_the_World) (Des choses cachees depuis la fondation du monde, Das Ende der Gewalt, 1978), the French philosopher and cultural anthropologist Rene Girard unfolds his central theory of human cultural genesis.
 
 Girard argues that human desire is inherently mimetic (imitative):
 we desire things because others desire them, which inevitably leads to rivalry, envy, and societal violence.
